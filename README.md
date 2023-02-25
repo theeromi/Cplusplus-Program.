@@ -6,6 +6,8 @@ What did you do particularly well?
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 # Utilizing header files would've made my code aesthetically pleasing, as well as minimizing the length on code by having the functions in another file, without having to show my main code.
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-# I found creating the functions for the specific tasks to be a bit challenging but thanks to reddit and W3schools i was able to overcome the challenges.
+# I found creating the functions for the specific tasks to be a bit challenging but thanks to reddit and W3schools as well as other resources, i was able to overcome the challenges.
 What skills from this project will be particularly transferable to other projects or course work?
+# After completing the tasks for the projects above i have been better at critical thinking as well as being able to utilize my resources to overcome previous personal obstacles. 
 How did you make this program maintainable, readable, and adaptable?
+# In making these programs i made sure to have maintainable, readable and adaptable code by ensuring that I did my best to Avoid abbreviations, avoided general terms when naming classes and did my best as well to follow command query separation principles. 
